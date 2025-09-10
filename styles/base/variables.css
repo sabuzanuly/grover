@@ -1,0 +1,18 @@
+:root {
+	--color-accent: #f86061;
+
+	--border-radius: 12px;
+
+	--border: 1px solid var(--color-accent);
+
+	--font-family: 'Poppins', sans-serif;
+
+	--button-height: 70px;
+
+	--container-width: 1300px;
+	--container-padding-x: 15px;
+
+	--transition-duration: 0.2s;
+
+	--header-height: 67px;
+}

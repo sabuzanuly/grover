@@ -1,0 +1,16 @@
+.button {
+	font-size: 20px;
+	color: #fffafa;
+	background-color: var(--color-accent);
+	border: 1px solid transparent;
+	border-radius: var(--border-radius);
+	height: var(--button-height);
+	padding-inline: 40px;
+}
+
+.button:hover {
+	color: var(--color-accent);
+	background-color: #fffafa;
+	border: var(--border);
+	cursor: pointer;
+}
