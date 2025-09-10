@@ -4,4 +4,6 @@
 @import url('./base/globals.css');
 @import url('./base/utils.css');
 
+@import url('./blocks/header.css');
+
 @import url('./media-queries.css');
