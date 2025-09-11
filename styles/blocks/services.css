@@ -26,7 +26,9 @@
 }
 .services-header-cards-list {
 	display: flex;
-	column-gap: 50px;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 50px;
 }
 /* FIXME: Hover effect */
 .services-header-cards-list-item {
